@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-friends-quote-machine/static/css/main.12bd0389.css",
+    "main.js": "/react-friends-quote-machine/static/js/main.e9239f98.js",
+    "static/media/FRIENDS Cover Portrait.jpg": "/react-friends-quote-machine/static/media/FRIENDS Cover Portrait.fa0ed45507e904690f68.jpg",
+    "static/media/FRIENDS Cover Landscape.jpg": "/react-friends-quote-machine/static/media/FRIENDS Cover Landscape.fa41353f0f19383c2cdd.jpg",
+    "static/media/FRIENDS Logo.png": "/react-friends-quote-machine/static/media/FRIENDS Logo.77d9c31358a20154e58d.png",
+    "index.html": "/react-friends-quote-machine/index.html",
+    "main.12bd0389.css.map": "/react-friends-quote-machine/static/css/main.12bd0389.css.map",
+    "main.e9239f98.js.map": "/react-friends-quote-machine/static/js/main.e9239f98.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.12bd0389.css",
+    "static/js/main.e9239f98.js"
+  ]
+}
